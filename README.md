@@ -1,3 +1,5 @@
+
+![Update LIC Bills](https://github.com/vishalkumarsingh-patna/lic-bill-automation/actions/workflows/main.yml/badge.svg)
 # Hi, I'm Vishal Kumar Singh 👋 
 ### Aspiring DevOps Engineer | Cloud Enthusiast | Building in Public
 
