@@ -21,7 +21,7 @@ I am a BCA student at CIMAGE Professional College, Patna, currently pivoting my 
 I am currently on a journey to transform my physique through **Calisthenics** and my career through **Continuous Integration**. I value self-reliance, empathy, and hard work.
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=vishalkumarsingh-patna&color=brightgreen&style=for-the-badge&label=VISITS)
 ### 📫 Connect with me:
 - **LinkedIn:** [Vishal Kumar Singh](https://in.linkedin.com/in/vishalkumarsingh-patna)
 - **Instagram:** [@natureloves_faith](https://www.instagram.com/natureloves_faith?igsh=MTNvbTZ3MGtqbDZpZw==)
