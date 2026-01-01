@@ -29,4 +29,4 @@ I am currently on a journey to transform my physique through **Calisthenics** an
 ---
 
 ### 📊 My GitHub Stats:
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalkumar0-1&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalkumar0-1&show_icons=true&theme=dark)
