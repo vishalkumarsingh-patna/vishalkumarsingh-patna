@@ -27,6 +27,7 @@ I am currently on a journey to transform my physique through **Calisthenics** an
 - **Instagram:** [@natureloves_faith](https://www.instagram.com/natureloves_faith?igsh=MTNvbTZ3MGtqbDZpZw==)
 
 ---
-
 ### 📊 My GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishalkumarsingh-patna&show_icons=true&theme=dark)
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalkumarsingh-patna&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumarsingh-patna&layout=compact&theme=dark)
